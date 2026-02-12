@@ -1,0 +1,15 @@
+START
+
+DECLARE number1
+DECLARE number2
+DECLARE result
+
+INPUT number1
+INPUT number2
+
+SET result = number1 + number2
+
+OUTPUT result
+
+END
+
